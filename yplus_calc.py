@@ -1,3 +1,4 @@
+#Скрипт для оценки y+ крыла
 import math;
 import sys;
 
